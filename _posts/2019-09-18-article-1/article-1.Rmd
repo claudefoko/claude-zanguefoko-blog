@@ -1,44 +1,34 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Article 1 : Heavy drinking and HIV don't mix"
 author:
-  - name: Nicolas Devilez
-date: 09-18-2019
-categories:
-  - elephant
-  - track
-preview: image/where-s-my-elephant.jpg
+  - name: claude foko
+date: 11-29-2019
+  -
 output:
   distill::distill_article:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
-
 ## Vocabulary 
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| systemic inflammation  | systemic infection          |
+| marker          | distinguishing symbol.        |
+|  immune function                     |      immune system                          |
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Researchers                  | (BOSTON UNIVERSITY SCHOOL OF MEDICINE:Researchers from Boston University School of Medicine )                        |
+| Published in?                | ( 22-AUG-2019)                                                       |
+| General topic?               |  (the harms of excessive alcohol use among people living with HIV.)                      |
+| Procedure/what was examined? | (the researchers investigated biological markers of three specific immune processes: systemic inflammation, monocyte activation and altered coagulation. Higher levels of biological markers for these processes have previously been associated with higher risk of death. In the current study, the researchers assessed self-reported alcohol use over time (three times over two years) and also measured alcohol use using a blood-based marker of alcohol consumption called PEth (phosphatidylethanol) that detects alcohol consumption up to about 21 days after drinking. Additionally they measured other behaviors and health conditions that could obscure the true relationship between alcohol consumption and these biomarkers.) |
+| Conclusions/discovery?       |  (According to the researchers, it is important to note they observed elevated levels of these biomarkers of immune activity in a relatively young HIV population with a low occurrence of chronic inflammatory diseases of aging like diabetes, obesity or renal disease. "Further we observed that the relationship between alcohol consumption and some of these biomarkers was not linear, suggesting a complex relationship between alcohol use and biomarkers of systemic inflammation and monocyte activation.")      |
+| Remaining questions?         | (the question at the end of this article is whether this study will highlight the harms of excessive alcohol consumption among people living with HIV.) |
 
 
-<https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
-
+<https://www.eurekalert.org/pub_releases/2019-08/buso-hda082119.php>
 
 

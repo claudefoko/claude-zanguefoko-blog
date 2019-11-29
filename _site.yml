@@ -14,5 +14,6 @@ navbar:
 base_url: https://claudefoko.github.io/claude-zanguefoko-blog
 collections:
     posts:
+      disqus: claude-zanguefoko-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article

@@ -1,0 +1,16 @@
+---
+title: "article_1"
+description: |
+  A short description of the post.
+author:
+  - name: Nicolas Devilez
+    url: (https://www.eurekalert.org/pub_releases/2019-08/buso-hda082119.php)
+date: 11-27-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+
+

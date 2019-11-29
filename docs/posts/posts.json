@@ -1,20 +1,17 @@
 [
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "title": "Article 1 : Heavy drinking and HIV don't mix",
     "description": {},
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "claude foko",
         "url": {}
       }
     ],
-    "date": "2019-09-18",
-    "categories": [
-      "elephant",
-      "track"
-    ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-11-26T13:20:39+01:00"
+    "date": "2019-11-29",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-29T14:46:39+01:00"
   }
 ]
