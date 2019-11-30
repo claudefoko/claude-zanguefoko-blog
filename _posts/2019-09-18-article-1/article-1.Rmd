@@ -3,7 +3,6 @@ title: "Article 1 : Heavy drinking and HIV don't mix"
 author:
   - name: claude foko
 date: 11-29-2019
-  -
 output:
   distill::distill_article:
     self_contained: false
