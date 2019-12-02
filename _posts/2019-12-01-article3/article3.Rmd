@@ -1,0 +1,36 @@
+---
+title: "article 3: Switch that kills inactive HIV isolated"
+description: |
+  Researchers have identified a switch controlling HIV reproduction in immune cells which can eliminate dormant HIV reservoirs.
+author:
+  - name: claude foko
+    url: (https://github.com/BioDataScience-Course/sdd1-19m-belgium-claude.git)
+    source: University of California - San Diego
+date: 12-01-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+## vocabulary 
+
+
+|word from the text | Synonym/explanation in English |
+|-------------------|--------------------------------|
+|     switch        |  relay                              |
+|     microglia     |  neuroglial tissue of mesodermal origin that can become phagocytic                              |
+|    macrophages    |  Cells that protect an organism by consuming harmful things        |
+|    T cells.       |  a small lymphocyte developed in the thymus; it orchestrates the immune system's response to infected or malignant cells        |
+
+## Analysis table 
+
+|                                |                                                               |
+|--------------------------------|---------------------------------------------------------------|
+| Researchers                    | University of California San Diego School of Medicine researchers (Tariq Rana, PhD, professor of pediatrics and genetics)              |
+| Published in?                  | September 24, 2019                                            |
+| general topic                  | eradicating the dormant strain of hiv by genetically modifying a long noncoding RNA to prevent recurrence of hiv in the T-cell and microglia during the cessation of antiretroviral therapy.                                                              |
+| Procedure/what was examined?   | the results obtained suggest that HEAL (modified RNA) plays a critical role in the pathogenesis of hiv.                                                              |
+|  Conclusions/discovery?        | results suggest that HEAL plays a critical role in HIV pathogenesis                                                              |
+|  Remaining questions?          |  what is the mechanism leading to the expression of the modified gene ?what is the percentage of success of this method of treatment on people who are living with hiv ?                                                             |
+
+
+
