@@ -4,7 +4,7 @@ description: |
   Researchers have identified a switch controlling HIV reproduction in immune cells which can eliminate dormant HIV reservoirs.
 author:
   - name: claude foko
-    url: (https://github.com/BioDataScience-Course/sdd1-19m-belgium-claude.git)
+    url: <(https://github.com/BioDataScience-Course/sdd1-19m-belgium-claude.git)>
     source: University of California - San Diego
 date: 12-01-2019
 output:
