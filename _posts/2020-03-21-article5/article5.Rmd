@@ -1,0 +1,36 @@
+---
+title: "article5:How HIV develops resistance to key drugs discovered"
+description: |
+  the post is a summary of a press article on the work of researchers at the CRICK AND DAMA FARBER Cancer institute. they would have discovered the mechanism developed by HIV to resist a certain group of drugs.
+author:
+  - name: claude foko
+    url: (https://github.com/BioDataScience-Course/sdd1-19m-belgium-claude.git)
+date: 03-21-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+## vocabulary 
+
+
+|word from the text | Synonym/explanation in English |
+|-------------------|--------------------------------|
+|  integrase                 | integrase is an enzyme produced by a retrovirus that enables its genetic material to be integrated into the DNA of the infected cell.                         |
+|      strength              |   brawn, power                    |
+|  enzyme                | a substance produced by a living organism which acts as a catalyst to bring about a specific biochemical reaction.                               |
+|                   |                                |
+
+## Analysis table 
+
+|                                |                                                               |
+|--------------------------------|---------------------------------------------------------------|
+| Researchers                    | researchers of the Crick and Dana-Farber Cancer Institute     |
+| Published in?                  |   January 30, 2020                                         |
+| general topic                  |  The mechanism behind how HIV can develop resistance to a widely-prescribed group of drugs has been uncovered by new research, with the findings opening the door to the development of more effective treatments.                                                           |
+| Procedure/what was examined?   |  The researchers at the Francis Crick Institute in London uncovered this by exploring the structure of integrase from a virus that is highly similar to the ancestor of HIV, using cryo-electron microscopy. This technique uses a powerful microscope which fires electrons at a frozen sample of the drug-enzyme complex. By recording how the electrons interact with the samples, the researchers created detailed images, at a nearly atom-by-atom level.                                                           |
+|  Conclusions/discovery?        |  in conclusion the problem has not been solved but the good news is that the researchers visualized the precise structure of the active site of the viral enzyme, where the drugs bind. researchers say plans will help design more efficient integrase inhibitors that could improve the lives of people living with HIV                                                       |
+|  Remaining questions?          |   the question that eats me now is whether its inhibitors will cure patients or just reduce the action of HIV ???                                                          |
+[science daily](https://www.sciencedaily.com/releases/2019/09/190910134326.htm)
+
+
