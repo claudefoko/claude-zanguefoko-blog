@@ -1,0 +1,36 @@
+---
+title: "article 6:Single dose of antibodies can knock out HIV in newborns"
+description: |
+  this post is a summary of a press article on research aimed at preventing mother-to-baby transmission of HIV.
+author:
+  - name: claude foko
+    url: (https://github.com/BioDataScience-Course/sdd1-19m-belgium-claude.git)
+date: 03-22-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+## vocabulary 
+
+
+|word from the text | Synonym/explanation in English |
+|-------------------|--------------------------------|
+|  rhesus macaque   |  a small brown macaque with red skin on the face and rump, native to southern Asia. It is often kept in captivity and is widely used in medical research.                              |
+| antiretroviral drugs |  Antiretroviral drugs are medications for the treatment of infection by retroviruses, primarily HIV.                               |
+|  broadly          |   in general                   |
+|                   |                                |
+
+## Analysis table 
+
+|                                |                                                               |
+|--------------------------------|---------------------------------------------------------------|
+| Researchers                    |    Nancy Haigwood, Ph.D., a professor of pathobiology                                                            |
+| Published in?                  |    January 7, 2020                                            |
+| general topic                  |     A single dose of an antibody-based treatment can prevent HIV transmission from mother to baby                                                          |
+| Procedure/what was examined?   |   The study found rhesus macaque newborns did not develop the monkey form of HIV, called SHIV, when they received a combination of two antibodies 30 hours after being exposed to the virus.Delaying treatment until 48 hours, on the other hand, resulted in half of the baby macaques developing SHIV when they were given four smaller doses of the same antibody cocktail. In comparison, the study found macaques that received the current standard HIV treatment -- antiretroviral drugs -- remained SHIV-free when they started a three-week regimen of that therapy 48 hours after exposure.                                                            |
+|  Conclusions/discovery?        | These promising findings could mean babies born to HIV-positive mothers can still beat HIV with less treatment                                                              |
+|  Remaining questions?          | the test was only carried out on non-human subjects, is there any assurance that it works as well on human beings?                                                              |
+
+[science daily](https://www.sciencedaily.com/releases/2019/09/190910134326.htm)
+
+
