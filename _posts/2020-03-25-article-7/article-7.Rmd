@@ -1,0 +1,40 @@
+---
+title: "article 7"
+description:
+author:
+  - name: claude foko
+    url: (https://github.com/BioDataScience-Course/sdd1-19m-belgium-claude.git)
+date: 03-25-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+## vocabulary 
+
+
+|word from the text | Synonym/explanation in English |
+|-------------------|--------------------------------|
+| intasome          | A nucleoprotein complex active in integration of DNA from a bacteriophage into a host.                               |
+|  retrovirus                 | A type of virus that uses RNA as its genetic material                               |
+| cryo-electron microscopy                  |   is a method for imaging frozen-hydrated specimens at cryogenic temperatures by electron microscopy                              |
+|                    |                                |
+
+## Analysis table 
+
+|                                |                                                               |
+|--------------------------------|---------------------------------------------------------------|
+| Researchers                    | Dmitry Lyumkis, an assistant professor in Salk's Laboratory of Genetics  |
+| Published in?                  |  January 30, 2020                                           |
+| general topic                  |  
+the general idea according to me is to study and fully understand the drugs (against HIV) to improve them and design new theurapeutic drugs                                                           |
+| Procedure/what was examined?   |  Some drugs, called integrase strand transfer inhibitors (INSTIs), have managed to block the intasome; HIV can't infect human cells when the complex can't integrate viral DNA into the human genome. There are currently four INSTIs approved by the US Food and Drug Administration, as well as others under development.                                                           |
+|  Conclusions/discovery?        | the extremely high resolution of the structure obtained by the Salk researchers lets them see details on how the drugs chemically interacted with this binding pocket, and how INSTIs displaced water molecules to do so, which gave the team even more information on what makes INSTIs so successful in the clinic.
+
+"In previous structures, we learned about intasome biology," says Lyumkis. "But here, we've really started to gain insight into the therapeutic angle of how drugs can target these important viral assemblies."
+
+The researchers are planning additional work on the experimental drugs -- focusing on the compound known as 4d, which, based on both preclinical testing and the new structural insight, shows more promise against HIV than other compounds. They also want to better understand what happens to the structure of the intasome in cases where it develops resistance to INSTIs. This could help them design more efficient drugs in the future, says Lyumkis.                                                            |
+|  Remaining questions?          | will this new drug be able to destroy the virus completely or will it just serve to prevent transcription?                                                            |
+[science daily](https://www.sciencedaily.com/releases/2019/09/190910134326.htm)
+
+

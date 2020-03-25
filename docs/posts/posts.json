@@ -1,5 +1,35 @@
 [
   {
+    "path": "posts/2020-03-25-article-7/",
+    "title": "article 7",
+    "description": {},
+    "author": [
+      {
+        "name": "claude foko",
+        "url": "(https://github.com/BioDataScience-Course/sdd1-19m-belgium-claude.git)"
+      }
+    ],
+    "date": "2020-03-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-03-25T11:09:34+01:00"
+  },
+  {
+    "path": "posts/2020-03-25-article7/",
+    "title": "article7:Imaging study of key viral structure shows how HIV drugs work at atomic level",
+    "description": "this post is a summary of a press article published on january 30, 2020. it talks about research work by scientists at the salk institute aiming to better understand (hiv) drugs to improve them and to design new theurapetic compounds.",
+    "author": [
+      {
+        "name": "claude foko",
+        "url": "(https://github.com/BioDataScience-Course/sdd1-19m-belgium-claude.git)"
+      }
+    ],
+    "date": "2020-03-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-03-25T11:15:30+01:00"
+  },
+  {
     "path": "posts/2020-03-22-article-6/",
     "title": "article 6:Single dose of antibodies can knock out HIV in newborns",
     "description": "this post is a summary of a press article on research aimed at preventing mother-to-baby transmission of HIV.",
