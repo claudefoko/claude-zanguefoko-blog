@@ -90,21 +90,6 @@
     "last_modified": "2019-12-03T12:11:44+01:00"
   },
   {
-    "path": "posts/2019-11-29-article2/",
-    "title": "article 2: Long-acting injectable multi-drug implant shows promise for HIV prevention and treatment",
-    "description": {},
-    "author": [
-      {
-        "name": "claude foko",
-        "url": {}
-      }
-    ],
-    "date": "2019-11-30",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-30T13:58:06+01:00"
-  },
-  {
     "path": "posts/2019-11-30-article2/",
     "title": "article_2: Long-acting injectable multi-drug implant shows promise for HIV prevention and treatment",
     "description": {},
@@ -118,6 +103,21 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-12-17T01:47:14+01:00"
+  },
+  {
+    "path": "posts/2019-11-29-article2/",
+    "title": "article 2: Long-acting injectable multi-drug implant shows promise for HIV prevention and treatment",
+    "description": {},
+    "author": [
+      {
+        "name": "claude foko",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-30",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-04-27T21:52:52+02:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
