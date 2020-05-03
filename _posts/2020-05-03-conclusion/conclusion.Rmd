@@ -1,0 +1,16 @@
+---
+title: "conclusion"
+description: |
+
+author:
+  - name: claude foko
+    url: (https://github.com/BioDataScience-Course/sdd1-19m-belgium-claude.git)
+date: 05-03-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+At the end of our analysis focused specifically on the new advanced or scientific discoveries on HIV, we discovered and learned through the various articles studied that scientists have never stopped working. this study also teaches us that the virus too cannot be easily fought; this was highlighted in article 5: .... article 1 on the other hand clearly demonstrates that alcohol is not a good option for a person living with HIV. in general each article studied shows us somehow that HIV adapts, develops resistance to live longer we also saw in article 3 an effective way to prevent and even treat HIV. the lesson from this research is to know that HIV is still very active in our society but also that many means are used to combat it. From this study emerges the question of knowing: all of this published research has been approved and implemented or is it just studies among many others?
+
