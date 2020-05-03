@@ -1,7 +1,7 @@
 ---
 title: "introduction"
 description: |
-  A short description of the post.
+
 author:
   - name: claude foko
     url: (https://github.com/BioDataScience-Course/sdd1-19m-belgium-claude.git)
