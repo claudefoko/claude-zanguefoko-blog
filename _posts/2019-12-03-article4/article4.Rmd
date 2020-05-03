@@ -31,7 +31,7 @@ output:
 | Procedure/what was examined?   |    To arrive at their conclusions, researchers compared the T-cell receptor beta-chain repertoire of cord blood samples from HIV-exposed uninfected infants to samples collected from mother-child pairs unaffected by HIV, but who were living in the same communities.                                                          |
 |  Conclusions/discovery?        |  The analysis revealed two clusters of HIV-exposed but uninfected babies: one cluster born similar to healthy infants without HIV exposure while the other cluster born with a significantly reduced immune repertoire.                                                             |
 |  Remaining questions?          |   what would be the contribution of this study on the prevention or reduction of the mortality rate of infants carrying hiv ?                                                           |
-[science daily](https://www.sciencedaily.com/releases/2019/09/190910134326.htm)
+(https://www.sciencedaily.com/releases/2019/09/190910134326.htm)
 
 ```
 
