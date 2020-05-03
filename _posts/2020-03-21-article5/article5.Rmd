@@ -31,6 +31,4 @@ output:
 | Procedure/what was examined?   |  The researchers at the Francis Crick Institute in London uncovered this by exploring the structure of integrase from a virus that is highly similar to the ancestor of HIV, using cryo-electron microscopy. This technique uses a powerful microscope which fires electrons at a frozen sample of the drug-enzyme complex. By recording how the electrons interact with the samples, the researchers created detailed images, at a nearly atom-by-atom level.                                                           |
 |  Conclusions/discovery?        |  in conclusion the problem has not been solved but the good news is that the researchers visualized the precise structure of the active site of the viral enzyme, where the drugs bind. researchers say plans will help design more efficient integrase inhibitors that could improve the lives of people living with HIV                                                       |
 |  Remaining questions?          |   the question that eats me now is whether its inhibitors will cure patients or just reduce the action of HIV ???                                                          |
- (https://www.sciencedaily.com/releases/2019/09/190910134326.htm)
-
-
+https://www.sciencedaily.com/releases/2020/01/200130144344.htm
