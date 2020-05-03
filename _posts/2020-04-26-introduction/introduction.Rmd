@@ -11,11 +11,6 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
+For years the whole world has faced a deadly pandemic called AIDS (Acquired Immunodeficiency Syndrome). It is an infection caused by a retrovirus called HIV (human Immunodeficiency virus) that attacks the immune system, that is, the body's natural defenses against disease; HIV immobilizes the immune system and takes; the control of CD4 T cells whose main role is to protect the organism from external attacks. Many scientific researchers have been working non-stop for years on the means of combating HIV, the body's reactions to this virus, its lifestyle, forms of adaptation and many others.
+During our work, we tried to study several scientific articles (recently published), all independent of each other in order to learn about the news of HIV which remains to this day a worrying health hazard in the world ; we also analyze the new biological techniques developed by researchers to fight the virus (article 3). We also considered it important to focus our attention on work that deals with prenatal exposure to HIV (article 4) because this study could provide solutions on infections caused by at risk pregnancies and thus give hope to some carriers of the virus who would have lost hope of being able to give birth.
+Throughout our study, we will provide more information on the various scientific research works that we have had time to analyze.

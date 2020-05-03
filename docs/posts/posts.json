@@ -15,6 +15,21 @@
     "last_modified": "2020-05-03T16:33:05+02:00"
   },
   {
+    "path": "posts/2020-04-26-introduction/",
+    "title": "introduction",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "claude foko",
+        "url": "(https://github.com/BioDataScience-Course/sdd1-19m-belgium-claude.git)"
+      }
+    ],
+    "date": "2020-04-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-05-03T17:04:04+02:00"
+  },
+  {
     "path": "posts/2020-03-25-article-7/",
     "title": "article 7",
     "description": {},
