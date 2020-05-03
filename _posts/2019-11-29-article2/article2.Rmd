@@ -1,7 +1,6 @@
 ---
-title: "article 2: Long-acting injectable multi-drug implant shows promise for HIV prevention and treatment"
+title: "article 2:Long-acting injectable multi-drug implant shows promise for HIV prevention and treatment"
 description: |
-source: "science daily: https://www.sciencedaily.com/releases/2019/09/190920124650.htm"
   
 author:
   - name: claude foko
@@ -28,4 +27,5 @@ output:
 | Procedure/what was examined?   | the authors realized an injectable implant that is composed of three elements: an organic solvent, a polymer and the drug (s) to be administered. The formulation gives a honey-like liquid that turns into a solid when injected under the skin. This phase reversal occurs when the solvent diffuses into the body, leaving behind the polymer and the drug (s) - their combination determines the time during which the drug will be released into the bloodstream.                                                              |
 |  Conclusions/discovery?        | In conclusion, the injectable drug implant created by the UNC research team is the first to address several of the disadvantages of the current method of administering long-acting drugs against HIV, namely the ability to remove it and to quickly eliminate the presence of residual drug (s) in the system.                                                              |
 |  Remaining questions?          | At the end of this article, the question that plagues me is whether this implant does not have any problem because it is not mentioned anywhere in the research.                                                              |
+ "science daily: https://www.sciencedaily.com/releases/2019/09/190920124650.htm"
 

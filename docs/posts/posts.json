@@ -15,6 +15,21 @@
     "last_modified": "2020-05-03T16:33:05+02:00"
   },
   {
+    "path": "posts/2020-05-03-article-2/",
+    "title": "article 2:Long-acting injectable multi-drug implant shows promise for HIV prevention and treatment",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "claude foko",
+        "url": "(https://github.com/BioDataScience-Course/sdd1-19m-belgium-claude.git)"
+      }
+    ],
+    "date": "2020-05-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-05-03T21:23:05+02:00"
+  },
+  {
     "path": "posts/2020-04-26-introduction/",
     "title": "introduction",
     "description": "A short description of the post.",
@@ -136,7 +151,7 @@
   },
   {
     "path": "posts/2019-11-29-article2/",
-    "title": "article 2: Long-acting injectable multi-drug implant shows promise for HIV prevention and treatment",
+    "title": "article 2:Long-acting injectable multi-drug implant shows promise for HIV prevention and treatment",
     "description": {},
     "author": [
       {
@@ -147,7 +162,7 @@
     "date": "2019-11-30",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-05-03T20:19:46+02:00"
+    "last_modified": "2020-05-03T21:18:24+02:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
